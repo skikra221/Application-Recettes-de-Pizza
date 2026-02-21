@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#E91E8C</color>
+    <color name="colorPrimaryDark">#C2185B</color>
+    <color name="splashBackground">#F44336</color>
+    <color name="teal">#26C0C0</color>
+    <color name="textSecondary">#666666</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Pizza Recipes</string>
+    <string name="currency_format">€</string>
+    <string name="description">Description</string>
+    <string name="duration_separator"> • </string>
+    <string name="etapes">Étapes de préparation</string>
+    <string name="ingredients">Ingrédients</string>
+    <string name="pizza_not_found">Pizza introuvable.</string>
+    <style name="Theme.PizzaRecipes" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Theme.PizzaRecipes.Splash" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/splashBackground</item>
+        <item name="android:statusBarColor">@color/splashBackground</item>
+    </style>
+</resources>

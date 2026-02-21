@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-debug-31:\\layout_activity_list_pizza.xml.flat",
+        "source": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-main-33:\\layout\\activity_list_pizza.xml"
+    },
+    {
+        "merged": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-debug-31:\\drawable_pizza2.png.flat",
+        "source": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-main-33:\\drawable\\pizza2.png"
+    },
+    {
+        "merged": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-debug-31:\\drawable_pizza8.png.flat",
+        "source": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-main-33:\\drawable\\pizza8.png"
+    },
+    {
+        "merged": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-debug-31:\\drawable_pizza4.png.flat",
+        "source": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-main-33:\\drawable\\pizza4.png"
+    },
+    {
+        "merged": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-debug-31:\\drawable_pizza3.png.flat",
+        "source": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-main-33:\\drawable\\pizza3.png"
+    },
+    {
+        "merged": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-debug-31:\\drawable_pizza9.png.flat",
+        "source": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-main-33:\\drawable\\pizza9.png"
+    },
+    {
+        "merged": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-debug-31:\\layout_activity_pizza_detail.xml.flat",
+        "source": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-main-33:\\layout\\activity_pizza_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-debug-31:\\drawable_pizza_logo.png.flat",
+        "source": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-main-33:\\drawable\\pizza_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-debug-31:\\drawable_pizza10.png.flat",
+        "source": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-main-33:\\drawable\\pizza10.png"
+    },
+    {
+        "merged": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-debug-31:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-main-33:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-debug-31:\\drawable_pizza6.png.flat",
+        "source": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-main-33:\\drawable\\pizza6.png"
+    },
+    {
+        "merged": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-debug-31:\\layout_row_pizza.xml.flat",
+        "source": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-main-33:\\layout\\row_pizza.xml"
+    },
+    {
+        "merged": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-debug-31:\\drawable_pizza5.png.flat",
+        "source": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-main-33:\\drawable\\pizza5.png"
+    },
+    {
+        "merged": "com.example.pizzarecipes.app-debug-31:/drawable_pizza_logo.png.flat",
+        "source": "com.example.pizzarecipes.app-main-33:/drawable/pizza_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-debug-31:\\drawable_pizza7.png.flat",
+        "source": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-main-33:\\drawable\\pizza7.png"
+    },
+    {
+        "merged": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-debug-31:\\drawable_pizza1.png.flat",
+        "source": "C:\\Users\\alibt\\.gradle\\daemon\\8.13\\com.example.pizzarecipes.app-main-33:\\drawable\\pizza1.png"
+    }
+]

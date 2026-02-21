@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    row_pizza.xml — Item de la ListView
+    RelativeLayout 96dp : image à gauche + nom en gras + méta (durée • prix)
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="96dp"
+    android:padding="8dp"
+    android:background="@color/white">
+
+    <!-- Image de la pizza -->
+    <ImageView
+        android:id="@+id/imgPizza"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="Image pizza" />
+
+    <!-- Nom de la pizza -->
+    <TextView
+        android:id="@+id/tvNom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/imgPizza"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="12dp"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:maxLines="1"
+        android:ellipsize="end" />
+
+    <!-- Durée et prix -->
+    <TextView
+        android:id="@+id/tvMeta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/imgPizza"
+        android:layout_below="@id/tvNom"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="8dp"
+        android:textSize="13sp"
+        android:textColor="@color/textSecondary" />
+
+</RelativeLayout>

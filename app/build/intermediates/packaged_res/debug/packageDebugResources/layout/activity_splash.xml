@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    activity_splash.xml — Splash Screen
+    Correspond au design : fond rouge, logo pizza centré, titres cursive, spinner teal.
+-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/splashBackground">
+
+    <!-- Contenu principal centré -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <!-- Logo pizza (remplacez pizza_logo par votre image cartoon si besoin) -->
+        <ImageView
+            android:id="@+id/imgSplashLogo"
+            android:layout_width="220dp"
+            android:layout_height="220dp"
+            android:src="@drawable/pizza_logo"
+            android:scaleType="fitCenter"
+            android:contentDescription="Logo Pizza" />
+
+        <!-- Titre principal en cursive -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="Pizza Recipes"
+            android:textColor="@color/white"
+            android:textSize="36sp"
+            android:fontFamily="cursive"
+            android:textStyle="bold" />
+
+        <!-- Sous-titre en cursive -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Make your Pizza"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:fontFamily="cursive" />
+
+    </LinearLayout>
+
+    <!-- Spinner teal en bas de l'écran -->
+    <ProgressBar
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="80dp"
+        android:indeterminateTint="@color/teal"
+        android:indeterminate="true" />
+
+</FrameLayout>
